@@ -1,0 +1,480 @@
+{
+  "company": "NVIDIA",
+  "source": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026/default.aspx",
+  "source_date": "2026-02-25",
+  "unit": "USD millions",
+  "periods": [
+    {
+      "id": "FY2025",
+      "end_date": "2025-01-26",
+      "basis": "US GAAP",
+      "values": {
+        "accrued": 11737.0,
+        "ap": 6310.0,
+        "ar": 23065.0,
+        "assets": 111601.0,
+        "buybacks": 33706.0,
+        "capex": 3236.0,
+        "capex_principal": 129.0,
+        "cash": 8589.0,
+        "cash_change": 1309.0,
+        "cf_accrued": 4278.0,
+        "cf_ap": 3357.0,
+        "cf_ar": -13063.0,
+        "cf_inventory": -4781.0,
+        "cf_long": 1221.0,
+        "cf_other": -502.0,
+        "cf_prepaid": -395.0,
+        "cf_tax": -4477.0,
+        "cff": -42359.0,
+        "cfi": -20421.0,
+        "cfo": 64089.0,
+        "cost": 32639.0,
+        "current_assets": 80126.0,
+        "current_liabilities": 18047.0,
+        "da": 1864.0,
+        "debt_current": 0.0,
+        "debt_long": 8463.0,
+        "deferred_tax": 10979.0,
+        "dividends": 834.0,
+        "equity": 79327.0,
+        "equity_investments": 3387.0,
+        "gains": -1030.0,
+        "goodwill": 5188.0,
+        "gross": 97858.0,
+        "intangibles": 807.0,
+        "interest_expense": 247.0,
+        "interest_income": 1786.0,
+        "inventory": 10080.0,
+        "lease_assets": 1793.0,
+        "lease_liabilities": 1519.0,
+        "liabilities": 32274.0,
+        "liquidity": 43210.0,
+        "net": 72880.0,
+        "opening_cash": 7280.0,
+        "operating": 81453.0,
+        "opex": 16405.0,
+        "other_assets": 3038.0,
+        "other_income": 1034.0,
+        "other_liabilities": 4245.0,
+        "ppe": 6283.0,
+        "prepaid": 3771.0,
+        "pretax": 84026.0,
+        "rd": 12914.0,
+        "revenue": 130497.0,
+        "sbc": 4737.0,
+        "securities": 34621.0,
+        "sga": 3491.0,
+        "tax": 11146.0
+      }
+    },
+    {
+      "id": "FY2026",
+      "end_date": "2026-01-25",
+      "basis": "US GAAP",
+      "values": {
+        "accrued": 21352.0,
+        "ap": 9812.0,
+        "ar": 38466.0,
+        "assets": 206803.0,
+        "buybacks": 40086.0,
+        "capex": 6042.0,
+        "capex_principal": 101.0,
+        "cash": 10605.0,
+        "cash_change": 2016.0,
+        "cf_accrued": 5257.0,
+        "cf_ap": 3096.0,
+        "cf_ar": -15399.0,
+        "cf_inventory": -11324.0,
+        "cf_long": 1844.0,
+        "cf_other": -287.0,
+        "cf_prepaid": 577.0,
+        "cf_tax": -1424.0,
+        "cff": -48474.0,
+        "cfi": -52228.0,
+        "cfo": 102718.0,
+        "cost": 62475.0,
+        "current_assets": 125605.0,
+        "current_liabilities": 32163.0,
+        "da": 2843.0,
+        "debt_current": 999.0,
+        "debt_long": 7469.0,
+        "deferred_tax": 13258.0,
+        "dividends": 974.0,
+        "equity": 157293.0,
+        "equity_investments": 22251.0,
+        "gains": -8918.0,
+        "goodwill": 20832.0,
+        "gross": 153463.0,
+        "intangibles": 3306.0,
+        "interest_expense": 259.0,
+        "interest_income": 2300.0,
+        "inventory": 21403.0,
+        "lease_assets": 2867.0,
+        "lease_liabilities": 2572.0,
+        "liabilities": 49510.0,
+        "liquidity": 62556.0,
+        "net": 120067.0,
+        "opening_cash": 8589.0,
+        "operating": 130387.0,
+        "opex": 23076.0,
+        "other_assets": 8301.0,
+        "other_income": 9022.0,
+        "other_liabilities": 7306.0,
+        "ppe": 10383.0,
+        "prepaid": 3180.0,
+        "pretax": 141450.0,
+        "rd": 18497.0,
+        "revenue": 215938.0,
+        "sbc": 6386.0,
+        "securities": 51951.0,
+        "sga": 4579.0,
+        "tax": 21383.0
+      }
+    }
+  ],
+  "metrics": [
+    {
+      "code": "revenue",
+      "label": "Revenue",
+      "section": "income",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cost",
+      "label": "Cost of revenue",
+      "section": "income",
+      "unit": "USD millions"
+    },
+    {
+      "code": "gross",
+      "label": "Gross profit",
+      "section": "income",
+      "unit": "USD millions"
+    },
+    {
+      "code": "rd",
+      "label": "Research & development",
+      "section": "income",
+      "unit": "USD millions"
+    },
+    {
+      "code": "sga",
+      "label": "Selling, general & administrative",
+      "section": "income",
+      "unit": "USD millions"
+    },
+    {
+      "code": "opex",
+      "label": "Total operating expenses",
+      "section": "income",
+      "unit": "USD millions"
+    },
+    {
+      "code": "operating",
+      "label": "Operating profit",
+      "section": "income",
+      "unit": "USD millions"
+    },
+    {
+      "code": "interest_income",
+      "label": "Interest income",
+      "section": "income",
+      "unit": "USD millions"
+    },
+    {
+      "code": "interest_expense",
+      "label": "Interest expense",
+      "section": "income",
+      "unit": "USD millions"
+    },
+    {
+      "code": "other_income",
+      "label": "Other income, net",
+      "section": "income",
+      "unit": "USD millions"
+    },
+    {
+      "code": "pretax",
+      "label": "Profit before tax",
+      "section": "income",
+      "unit": "USD millions"
+    },
+    {
+      "code": "tax",
+      "label": "Income tax expense",
+      "section": "income",
+      "unit": "USD millions"
+    },
+    {
+      "code": "net",
+      "label": "Profit for the year",
+      "section": "income",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cash",
+      "label": "Cash & cash equivalents",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "securities",
+      "label": "Current marketable securities",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "liquidity",
+      "label": "Cash + current marketable securities",
+      "section": "derived",
+      "unit": "USD millions"
+    },
+    {
+      "code": "ar",
+      "label": "Trade receivables, net",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "inventory",
+      "label": "Inventories",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "prepaid",
+      "label": "Prepayments & other current assets",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "current_assets",
+      "label": "Total current assets",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "ppe",
+      "label": "Property & equipment, net",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "lease_assets",
+      "label": "Operating lease assets",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "goodwill",
+      "label": "Goodwill",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "intangibles",
+      "label": "Intangible assets, net",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "deferred_tax",
+      "label": "Deferred tax assets",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "equity_investments",
+      "label": "Non-marketable equity securities",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "other_assets",
+      "label": "Other assets",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "assets",
+      "label": "Total assets",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "ap",
+      "label": "Trade payables",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "accrued",
+      "label": "Accrued & other current liabilities",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "debt_current",
+      "label": "Current debt",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "current_liabilities",
+      "label": "Total current liabilities",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "debt_long",
+      "label": "Non-current debt",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "lease_liabilities",
+      "label": "Non-current operating lease liabilities",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "other_liabilities",
+      "label": "Other non-current liabilities",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "liabilities",
+      "label": "Total liabilities",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "equity",
+      "label": "Total equity",
+      "section": "position",
+      "unit": "USD millions"
+    },
+    {
+      "code": "sbc",
+      "label": "Share-based compensation",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "da",
+      "label": "Depreciation & amortisation",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "gains",
+      "label": "Investment gains adjustment",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cf_tax",
+      "label": "Deferred tax adjustment",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cf_other",
+      "label": "Other operating adjustments",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cf_ar",
+      "label": "Change in receivables",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cf_inventory",
+      "label": "Change in inventories",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cf_prepaid",
+      "label": "Change in prepayments & other assets",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cf_ap",
+      "label": "Change in payables",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cf_accrued",
+      "label": "Change in accrued liabilities",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cf_long",
+      "label": "Change in other long-term liabilities",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cfo",
+      "label": "Net operating cash flow",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cfi",
+      "label": "Net investing cash flow",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cff",
+      "label": "Net financing cash flow",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "opening_cash",
+      "label": "Opening cash & equivalents",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "cash_change",
+      "label": "Net change in cash",
+      "section": "cashflow",
+      "unit": "USD millions"
+    },
+    {
+      "code": "capex",
+      "label": "Property, equipment & intangible purchases",
+      "section": "supplement",
+      "unit": "USD millions"
+    },
+    {
+      "code": "capex_principal",
+      "label": "Related principal payments",
+      "section": "supplement",
+      "unit": "USD millions"
+    },
+    {
+      "code": "buybacks",
+      "label": "Cash paid for share repurchases",
+      "section": "supplement",
+      "unit": "USD millions"
+    },
+    {
+      "code": "dividends",
+      "label": "Dividends paid",
+      "section": "supplement",
+      "unit": "USD millions"
+    }
+  ]
+}
