@@ -1,6 +1,6 @@
 # Company Wallet
 
-An obsidian, emerald and cyan glass financial workspace built for Emmanuel. Python + SQLite powers the local app; the hosted browser demo uses the same exported financial snapshot and an equivalent JavaScript sensitivity model.
+An obsidian, emerald and cyan glass financial workspace built by Emmanuel Marshall. Python + SQLite powers the local app; the hosted browser demo uses the same exported financial snapshot and an equivalent JavaScript sensitivity model.
 
 ## Start on Windows / PyCharm
 
